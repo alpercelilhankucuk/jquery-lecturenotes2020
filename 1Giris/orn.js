@@ -1,0 +1,1 @@
+$("#baslik").html("YAZDIK JQUERY");
